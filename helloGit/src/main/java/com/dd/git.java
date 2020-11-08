@@ -6,5 +6,6 @@ public class git {
         System.out.println("更新1");
         System.out.println("更新2");
         System.out.println("分支dev");
+        System.out.println("主干冲");
     }
 }
