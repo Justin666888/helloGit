@@ -8,5 +8,11 @@ public class git {
         System.out.println("分支dev");
         System.out.println("主干冲");
         System.out.println("奋达科技非口量");
+        System.out.println("主干冲");
+        System.out.println("奋达科技非口量");
+        System.out.println("主干冲");
+        System.out.println("奋达科技非口量");
+        System.out.println("主干冲");
+        System.out.println("奋达科技非口量");
     }
 }
